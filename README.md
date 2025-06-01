@@ -30,5 +30,14 @@ This is a **.NET 8 Web API** project built with **Clean Architecture** principle
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Amirwsen/CQRS.git
+cd CQRS
+```
+
+### 2. Configure Docker
+
+Make sure you have Docker installed and running.
+```bash
+docker-compose up --build
+
+```
